@@ -1,0 +1,3 @@
+DEVICE = "gpu"
+BATCH_SIZE = 32
+EPOCHS = 100
